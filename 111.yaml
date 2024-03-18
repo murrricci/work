@@ -1,0 +1,10 @@
+
+
+
+fish.kind:
+  source: source.fish.type
+  doc: 'nj '
+
+
+
+@Mapping(target = "fish.kind", source = { fish.kind })
